@@ -47,7 +47,7 @@ Para saber quais variáveis estão disponíveis, consulte o arquivo `application
 1. Clone o repositório:
 
 ```bash
-git clone
+git clone https://github.com/GianlucaBorges/gf-investimentos-backend.git
 cd gf-investimentos-backend
 ```
 
